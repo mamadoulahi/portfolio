@@ -21,13 +21,13 @@ export const socials = [
   {
     id: 'linkedin',
     label: 'LinkedIn',
-    href: 'https://linkedin.com/in/mamadoukeita',
+    href: 'https://www.linkedin.com/in/mamadou-keita-pam/',
     icon: 'linkedin',
   },
   {
     id: 'github',
     label: 'GitHub',
-    href: 'https://github.com/mamadoukeita',
+    href: 'https://github.com/mamadoulahi',
     icon: 'github',
   },
   {
